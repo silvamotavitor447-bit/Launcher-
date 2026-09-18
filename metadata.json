@@ -1,0 +1,7 @@
+{
+  "name": "Minimal Launcher",
+  "description": "Launcher minimalista para Android com relógio digital elegante, pesquisa instantânea e grade limpa de aplicativos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
